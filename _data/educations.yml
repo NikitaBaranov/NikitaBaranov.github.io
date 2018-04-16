@@ -1,16 +1,109 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Master of Engineering, Software Engineering
+  university: <a href='http://www.concordia.ca/encs.html' target='_blank'>Concordia University</a>, Montreal QC, Canada
+  time: 09.2016 – 09.2018
+  details: "
+  <p>Personal study projects:</p>
+  <p>
+  <ul>
+    <li>
+      <a href='http://35.193.37.109' target='_blank'>Character recognition web-service</a>
+      <ul>
+        <li>
+          Back-end: <b>Java Spring Boot, Java Spring Data, Mongo DB, REST API</b>
+        </li>
+        <li>
+          Front-end: <b>Bootstrap 4, Angular 4, TypeScript, REST</b>
+        </li>
+        <li>
+          Machine Learning Model: <b>Python, Tensorflow</b>, MNIST
+        </li>
+        <li>
+          Deployment: <b>Docker, Kubernetes</b>
+        </li>
+        <li>
+          Google Cloud: <b>Container Engine, Machine Learning Engine</b>
+        </li>
+      </ul>
+    </li>
+    <li>
+      Clients clustering and sales recommendation system
+      <ul>
+        <li>
+          <b>Hadoop, Java, Spark, Python, PySpark.</b> Total data size: 1,5 GB
+        </li>
+      </ul>
+    </li>
+  </ul>
+  </p>
+  <p>Group study projects:</p>
+  <p>
+  <ul>
+    <li>
+      <a href='http://35.226.147.54' target='_blank'>Reactive asynchronous non-blocking web application - “TweetAnalytics”</a>
+      <ul>
+        <li>
+          Back-end: <b>Java 8, Play Framework, JUnit, Mockito</b>
+        </li>
+        <li>
+          Front-end: <b>Bootstrap 4, JavaScript, jQuery</b>
+        </li>
+        <li>
+          Actor-based programming: <b>Akka</b>
+        </li>
+        <li>
+          API: <b>Tweeter API</b>
+        </li>
+        <li>
+          Deployment: <b>Docker, Kubernetes</b>
+        </li>
+      </ul>
+    </li>
+    <li>
+      GitHub activities aggregator - “TA Watchtower”
+      <ul>
+        <li>
+          <b> HTML, JavaScript, GitHub API, Travis-CI, Agile</b>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  </p>"
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Deep Learning Specialization (<a href='https://www.coursera.org/account/accomplishments/specialization/38CFSRVP8BD9' target='_blank'>38CFSRVP8BD9</a>)
+  university: <a href='https://www.deeplearning.ai/' target='_blank'>Deeplearning.ai</a>, Coursera
+  time: 09.2017 - 04.2018
+  details: "
+        <ul>
+          <li>
+            Neural Networks and Deep Learning (<a href='https://www.coursera.org/account/accomplishments/records/FR52XXNXE5X3' target='_blank'>FR52XXNXE5X3</a>)
+          </li>
+          <li>
+            Improving Deep Neural Networks (<a href='https://www.coursera.org/account/accomplishments/records/A4ZGLJLRD596' target='_blank'>A4ZGLJLRD596</a>)
+          </li>
+          <li>
+            Structuring Machine Learning Projects (<a href='https://www.coursera.org/account/accomplishments/records/LWCZSX6ZNR6P' target='_blank'>LWCZSX6ZNR6P</a>)
+          </li>
+          <li>
+            Convolutional Neural Networks (<a href='https://www.coursera.org/account/accomplishments/records/6FDVEEKFBYVT' target='_blank'>6FDVEEKFBYVT</a>)
+          </li>
+          <li>
+            Sequence Models (<a href='https://www.coursera.org/account/accomplishments/records/BFDXGW8MMEQE' target='_blank'>BFDXGW8MMEQE</a>)
+          </li>
+        </ul>
+      "
+- education:
+  degree: Certified Scrum Product Owner (<a href='https://www.scrumalliance.org/community/profile/nbaranov' target='_blank'>#000256274</a>)
+  university: <a href='https://www.scrumalliance.org' target='_blank'>Scrum Alliance, Inc</a>
+  time: 2012 - 2015
+  details: ""
+- education:
+  degree: Computer and Information Systems Security/Information Assurance
+  university: <a href='https://urfu.ru/en' target='_blank'>Ural State University</a>, Ekaterinburg, Russia
+  time: 2009 - 2009
+  details: ""
+- education:
+  degree: Bachelor of Computer Science, Information Systems (in Economics)
+  university: <a href='https://urfu.ru/en' target='_blank'>Ural State University</a>, Ekaterinburg, Russia
+  time: 1998 – 2004
+  details: ""

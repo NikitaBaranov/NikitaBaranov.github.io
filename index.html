@@ -10,11 +10,17 @@ layout: default
 {% endif %}
             
 {% include experience.html %}
-            
-{% include projects.html %}
-            
-{% include publications.html %}
-            
-{% include skills.html %}
+
+{% if site.projects_in_main %}
+    {% include projects.html %}
+{% endif %}
+
+{% if site.publications_in_main %}
+    {% include publications.html %}
+{% endif %}
+
+{% if site.skills_in_main %}
+    {% include skills.html %}
+{% endif %}
 
 

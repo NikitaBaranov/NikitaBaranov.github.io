@@ -2,7 +2,7 @@
 title: Nikita Baranov - Resume
 url: 'http://baranov.tech'
 baseurl: '/NikitaBaranov.github.io' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -12,15 +12,17 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-5
 #style: styles-6
 
-
 #Profile information
 name: Nikita Baranov
 tagline: Backend Java Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+resume_pdf: Java_8_in_Action.pdf
+summary: '
+<p>Currently, I am finishing my Master’s degree program in Software Engineering at Concordia University, Montreal.</p>
+<p><b>My passion is to work in a team on creation of truly smart applications.</b></p>
+<p>15 years of work industry experience, as well as my latest academic endeavor, has helped me to deeply develop my
+interpersonal skills, wiliness, and ability to learn fast and independently. Also, I am very adaptive and a
+stress-resistant team player.</p>'
 
 #sidebar links
 email: nikita@baranov.tech
@@ -28,11 +30,19 @@ phone: 514 969 1051
 # website: blog.webjeda.com #do not add http://
 linkedin: NikitaBaranov
 github: NikitaBaranov
+# hackerrank: NikitaBaranov
 # twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 education_in_main: True
+
+# uncomment the next line, if you want the section displayed in main
+# publications_in_main: True
+# projects_in_main: True
+# skills_in_main: True
+
+
 
 # Tracker
 analytics: UA-83979019-1

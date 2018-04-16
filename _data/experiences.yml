@@ -1,28 +1,43 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Backend Java Developer
+  time: 06.2017 - Present
+  company: <a href='https://www.ericsson.com/en' target='_blank'>Ericsson</a>, Montreal
+  details: "Developing RESTful Micro-services on <b>Java 8 (Spring Boot, Spring Data, Gradle)</b>
+  and <b>MongoBD</b> for an internal web-based management system."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: IT Consultant
+  time: 01.2017 - Present
+  company: Stephen Léopold Montréal Immobilier Inc., Montreal
+  details: "On-demand consultations on the matters of Information Technologies."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Agile Product Owner and Project Manager
+  time: 09.2006 – 08.2016
+  company: <a href='https://kontur.ru/eng/about' target='_blank'>SKB Kontur</a>, Ekaterinburg, Russia
+  details: "<ul>
+              <li>
+                  <a href='https://ca.kontur.ru/' target='_blank'>ca.skbkontur.ru</a> - Lead development and rolling out of the product line from scratch
+                  <ul>
+                    <li>Conducted an ongoing comprehensive research of the client needs</li>
+                    <li>Created and maintain products backlog with prioritisation</li>
+                    <li>Work with stakeholders to ensure satisfaction with the scope, quality and prioritization</li>
+                  </ul>
+              </li>
+              <li><a href='https://crypto.kontur.ru' target='_blank'>crypto.kontur.ru</a> - Leading the development and rolling out of the brand-new web-service for use of electronic signature</li>
+              <li>Planned a long-term and a short-term development roadmap (design, marketing, PR, advertising, sales, technical support etc.)</li>
+              <li>Spoke at conferences (Russia, Poland, the USA)</li>
+            </ul>"
+- experience:
+  role: Developer, Tester and Technical Support Specialist
+  time: 06.2002 – 09.2006
+  company: <a href='https://kontur.ru/eng/about' target='_blank'>SKB Kontur</a>, Ekaterinburg, Russia
+  details: "<ul>
+              <li>
+                Developed a WEB system (ASP.Net, C++, C#, JavaScript, SQL)
+              </li>
+              <li>
+                Tested the product manually and automatically (self-made tools)
+              </li>
+              <li>
+                supported users by phone and email
+              </li>
+            </ul>"
