@@ -41,6 +41,7 @@
   <ul>
     <li>
       <a href='http://35.226.147.54' target='_blank'>Reactive asynchronous non-blocking web application - “TweetAnalytics”</a>
+      <a href='https://github.com/NikitaBaranov/soen6441project' target='_blank'><i class='fa fa-github'></i></a>
       <ul>
         <li>
           Back-end: <b>Java 8, Play Framework, JUnit, Mockito</b>
