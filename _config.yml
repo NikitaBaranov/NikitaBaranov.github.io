@@ -25,10 +25,10 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 #sidebar links
 email: nikita@baranov.tech
 phone: 514 969 1051
-website: blog.webjeda.com #do not add http://
+# website: blog.webjeda.com #do not add http://
 linkedin: NikitaBaranov
 github: NikitaBaranov
-twitter: '@webjeda'
+# twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
