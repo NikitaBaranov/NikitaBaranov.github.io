@@ -8,6 +8,10 @@
   <ul>
     <li>
       <a href='http://35.193.37.109' target='_blank'>Character recognition web-service</a>
+      (
+      <a href='https://github.com/NikitaBaranov/coen6313-project-be' target='_blank'><i class='fa fa-github'></i> - Backend</a>
+      <a href='https://github.com/NikitaBaranov/coen6313-project-fe' target='_blank'><i class='fa fa-github'></i> - Frontend</a>
+      )
       <ul>
         <li>
           Back-end: <b>Java Spring Boot, Java Spring Data, Mongo DB, REST API</b>
