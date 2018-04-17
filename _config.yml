@@ -2,6 +2,7 @@
 title: Nikita Baranov - Resume
 url: 'http://baranov.tech'
 baseurl: '/NikitaBaranov.github.io' #change it according to your repository name
+description: "Nikita Baranov - Resume"
 about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
