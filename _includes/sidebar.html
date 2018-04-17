@@ -46,6 +46,10 @@
            <li class="hackerrank"><i class="fa fa-globe"></i><a href="https://hackerrank.com/{{site.hackerrank}}" target="_blank">{{site.hackerrank}}</a></li>
            {% endif %}
 
+           {% if site.resume_pdf %}
+           <li class="resume_pdf"><i class="fa fa-file-pdf-o"></i><a href="{{site.baseurl}}/assets/pdf/{{site.resume_pdf}}" target="_blank">Resume in PDF</a></li>
+           {% endif %}
+
        </ul>
    </div><!--//contact-container-->
 
