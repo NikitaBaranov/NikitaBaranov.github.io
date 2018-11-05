@@ -7,7 +7,8 @@
   <p>
   <ul>
     <li>
-      <a href='http://35.193.37.109' target='_blank'>Character recognition web-service</a>
+      <!-- <a href='http://35.193.37.109' target='_blank'> Character recognition web-service</a> -->
+      <b>Character recognition web-service</b>
       (
       <a href='https://github.com/NikitaBaranov/coen6313-project-be' target='_blank'><i class='fa fa-github'></i> - Backend</a>
       <a href='https://github.com/NikitaBaranov/coen6313-project-fe' target='_blank'><i class='fa fa-github'></i> - Frontend</a>
@@ -44,7 +45,8 @@
   <p>
   <ul>
     <li>
-      <a href='http://35.226.147.54' target='_blank'>Reactive asynchronous non-blocking web application - “TweetAnalytics”</a>
+      <!-- <a href='http://35.226.147.54' target='_blank'>Reactive asynchronous non-blocking web application - “TweetAnalytics”</a> -->
+      <b>Reactive asynchronous non-blocking web application - “TweetAnalytics”</b>
       <a href='https://github.com/NikitaBaranov/soen6441project' target='_blank'><i class='fa fa-github'></i></a>
       <ul>
         <li>
