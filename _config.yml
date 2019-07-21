@@ -17,17 +17,19 @@ about: False # set to False or comment line if you want to remove the "How to us
 name: Nikita Baranov
 tagline: Backend Java Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-resume_pdf: Resume Nikita Baranov.pdf
+resume_pdf: Resume_Nikita_Baranov.pdf
 summary: '
-<p>Currently, I am finishing my Master’s degree program in Software Engineering at Concordia University, Montreal.</p>
 <p><b>My passion is to work in a team on creation of truly smart applications.</b></p>
-<p>15 years of work industry experience, as well as my latest academic endeavor, has helped me to deeply develop my
-interpersonal skills, wiliness, and ability to learn fast and independently. Also, I am very adaptive and a
-stress-resistant team player.</p>'
+<p> Software developer, critical thinker and team player with over 17 years experience of creating and
+maintaining software solutions. Hands-on knowledge of different roles and phases of the software product lifecycle,
+in combination with constant learning and fast skill acquisition, allows me quickly solve problems
+of any kind (technical, non-technical) and deliver the best possible user experience within deadlines.</p>
+<p>Recently, I started to dive into Machine-Learning and Deep Networks to enrich developed solutions
+with Artificial Intelligent capabilities.</p>'
 
 #sidebar links
 email: nikita@baranov.tech
-phone: 514 969 1051
+phone: +1-514-969-1051
 # website: blog.webjeda.com #do not add http://
 linkedin: NikitaBaranov
 github: NikitaBaranov
