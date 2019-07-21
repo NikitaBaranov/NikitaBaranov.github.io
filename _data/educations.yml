@@ -77,34 +77,6 @@
   </ul>
   </p>"
 - education:
-  degree: Deep Learning Specialization (<a href='https://www.coursera.org/account/accomplishments/specialization/certificate/38CFSRVP8BD9' target='_blank'>38CFSRVP8BD9</a>)
-  university: <a href='https://www.deeplearning.ai/' target='_blank'>Deeplearning.ai</a>, Coursera
-  time: 09.2017 - 04.2018
-  details: "
-        <ul>
-          <li>
-            Neural Networks and Deep Learning (<a href='https://www.coursera.org/account/accomplishments/certificate/FR52XXNXE5X3' target='_blank'>FR52XXNXE5X3</a>)
-          </li>
-          <li>
-            Improving Deep Neural Networks (<a href='https://www.coursera.org/account/accomplishments/certificate/A4ZGLJLRD596' target='_blank'>A4ZGLJLRD596</a>)
-          </li>
-          <li>
-            Structuring Machine Learning Projects (<a href='https://www.coursera.org/account/accomplishments/certificate/LWCZSX6ZNR6P' target='_blank'>LWCZSX6ZNR6P</a>)
-          </li>
-          <li>
-            Convolutional Neural Networks (<a href='https://www.coursera.org/account/accomplishments/certificate/6FDVEEKFBYVT' target='_blank'>6FDVEEKFBYVT</a>)
-          </li>
-          <li>
-            Sequence Models (<a href='https://www.coursera.org/account/accomplishments/certificate/BFDXGW8MMEQE' target='_blank'>BFDXGW8MMEQE</a>)
-          </li>
-        </ul>
-      "
-- education:
-  degree: Certified Scrum Product Owner (<a href='https://www.scrumalliance.org/community/profile/nbaranov' target='_blank'>#000256274</a>)
-  university: <a href='https://www.scrumalliance.org' target='_blank'>Scrum Alliance, Inc</a>
-  time: 2012 - 2015
-  details: ""
-- education:
   degree: Computer and Information Systems Security/Information Assurance
   university: <a href='https://urfu.ru/en' target='_blank'>Ural State University</a>, Ekaterinburg, Russia
   time: 2009 - 2009

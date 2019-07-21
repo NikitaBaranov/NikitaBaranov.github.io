@@ -1,0 +1,102 @@
+- certificate:
+  name: 1Z0-809. Oracle Certified Professional (OCP), Java SE 8 Programmer II
+  authority: <a href='https://www.oracle.com/' target='_blank'>Oracle</a>
+  time: 07.2019
+  details: "
+      <div data-iframe-width='150' data-iframe-height='270' data-share-badge-id='38fde9f3-ba54-44f4-ae0c-c3ff3cd365f8'></div>
+      <script type='text/javascript' async src='//cdn.youracclaim.com/assets/utilities/embed.js'></script>
+      "
+- certificate:
+  name: DS220. DataStax Enterprise 6 Practical Application Data Modeling <br> with Apache Cassandra™ (<a href='/NikitaBaranov.github.io/assets/images/Resume_Nikita_Baranov.pdf' target='_blank'>view certificate</a>)
+  authority: DataStax
+  time: 07.2019
+
+- certificate:
+  name: DS201. DataStax Enterprise 6 Foundations of Apache Cassandra™ <br> (<a href='/NikitaBaranov.github.io/assets/images/Resume_Nikita_Baranov.pdf' target='_blank'>view certificate</a>)
+  authority: DataStax
+  time: 07.2019
+
+- certificate:
+  name: Programming with Google Go language Specialization (<a href='https://www.coursera.org/account/accomplishments/specialization/MFANKQBPD2QG' target='_blank'>view certificate</a>)
+  authority: University of California, Irvine, Coursera
+  time: 06.2019
+  details: "
+        <ul>
+          <li>
+            Getting Started with Go (<a href='https://www.coursera.org/account/accomplishments/verify/9X7YXPJ72CH4' target='_blank'>view certificate</a>)
+          </li>
+          <li>
+            Functions, Methods, and Interfaces in Go (<a href='https://www.coursera.org/account/accomplishments/verify/97AP2EZ7AYA9' target='_blank'>view certificate</a>)
+          </li>
+          <li>
+            Concurrency in Go (<a href='https://www.coursera.org/account/accomplishments/verify/EN3769Y57CY3' target='_blank'>view certificate</a>)
+          </li>
+        </ul>
+      "
+
+- certificate:
+  name: Building Cloud Services with the Java Spring Framework (<a href='https://www.coursera.org/account/accomplishments/verify/RHQMSZLS7VPS' target='_blank'>view certificate</a>)
+  authority: Vanderbilt University, Coursera
+  time: 06.2019
+
+- certificate:
+  name: Building Scalable Java Microservices with Spring Boot and Spring Cloud <br> (<a href='https://www.coursera.org/account/accomplishments/verify/AJZCFHWBEYDL' target='_blank'>view certificate</a>)
+  authority: Google Cloud, Coursera
+  time: 05.2019
+
+- certificate:
+  name: Parallel, Concurrent, and Distributed Programming in Java Specialization <br> (<a href='https://www.coursera.org/account/accomplishments/specialization/9A626D2F93Z4' target='_blank'>view certificate</a>)
+  authority: Rice University, Coursera
+  time: 05.2019
+  details: "
+        <ul>
+          <li>
+            Parallel Programming in Java (<a href='https://www.coursera.org/account/accomplishments/verify/4U5CD8KJR2TL' target='_blank'>view certificate</a>)
+          </li>
+          <li>
+            Concurrent Programming in Java (<a href='https://www.coursera.org/account/accomplishments/verify/9E34ECZEM638' target='_blank'>view certificate</a>)
+          </li>
+          <li>
+            Distributed Programming in Java (<a href='https://www.coursera.org/account/accomplishments/verify/66XB9DHNUV49' target='_blank'>view certificate</a>)
+          </li>
+        </ul>
+      "
+
+- certificate:
+  name: 1Z0-808. Oracle Certified Associate (OCA), Java SE 8 Programmer I
+  authority: <a href='https://www.oracle.com/' target='_blank'>Oracle</a>
+  time: 03.2019
+  details: "
+      <div data-iframe-width='150' data-iframe-height='270' data-share-badge-id='25788796-e402-4809-acad-8bd6fc54b7e7'></div>
+      <script type='text/javascript' async src='//cdn.youracclaim.com/assets/utilities/embed.js'></script>
+      "
+
+- certificate:
+  name: Deep Learning Specialization (<a href='https://www.coursera.org/account/accomplishments/specialization/38CFSRVP8BD9' target='_blank'>view certificate</a>)
+  authority: <a href='https://www.deeplearning.ai/' target='_blank'>Deeplearning.ai</a>, Coursera
+  time: 09.2017 - 04.2018
+  details: "
+        <ul>
+          <li>
+            Neural Networks and Deep Learning (<a href='https://www.coursera.org/account/accomplishments/verify/FR52XXNXE5X3' target='_blank'>view certificate</a>)
+          </li>
+          <li>
+            Improving Deep Neural Networks (<a href='https://www.coursera.org/account/accomplishments/verify/A4ZGLJLRD596' target='_blank'>view certificate</a>)
+          </li>
+          <li>
+            Structuring Machine Learning Projects (<a href='https://www.coursera.org/account/accomplishments/verify/LWCZSX6ZNR6P' target='_blank'>view certificate</a>)
+          </li>
+          <li>
+            Convolutional Neural Networks (<a href='https://www.coursera.org/account/accomplishments/verify/6FDVEEKFBYVT' target='_blank'>view certificate</a>)
+          </li>
+          <li>
+            Sequence Models (<a href='https://www.coursera.org/account/accomplishments/verify/BFDXGW8MMEQE' target='_blank'>view certificate</a>)
+          </li>
+        </ul>
+      "
+
+- certificate:
+  name: Certified Scrum Product Owner (<a href='https://www.scrumalliance.org/community/profile/nbaranov' target='_blank'>view certificate</a>)
+  authority: <a href='https://www.scrumalliance.org' target='_blank'>Scrum Alliance, Inc</a>
+  time: 2012 - 2015
+  details: ""

@@ -41,6 +41,7 @@ github: NikitaBaranov
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 education_in_main: True
+certification_in_main: True
 
 # uncomment the next line, if you want the section displayed in main
 # publications_in_main: True

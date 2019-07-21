@@ -14,8 +14,14 @@
   role: Backend Java Developer
   time: 06.2017 - 10.2018
   company: <a href='https://www.ericsson.com/en' target='_blank'>Ericsson</a>, Montreal
-  details: "Developing RESTful Micro-services on <b>Java 8 (Spring Boot, Spring Data, Gradle)</b>
-  and <b>MongoBD</b> for an internal web-based management system."
+  details: "The team was responsible for the development of two services (back-end and front-end) in an internal management system.
+            <p>Accomplishments:</p>
+            <p>
+              <ul>
+                <li>Implemented event sourcing functionality in two microservices. The main purpose is to create local Cassandra storage for most used objects that belong to the other MS. As a result significantly reduced the number of internal REST calls that lead to a reduction of response time and overall system load.</li>
+                <li>Migrate three microservices to a leverage Spring Configuration Server autoconfigaration.</li>
+              </ul>
+            </p>"
 - experience:
   role: IT Consultant
   time: 01.2017 - Present

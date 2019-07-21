@@ -1,65 +1,85 @@
 <!-- Use icons from fontawesome when you are adding new item in the contact list  -->
 <div class="sidebar-wrapper">
 
-   <div class="profile-container">
+    <div class="profile-container">
 
-       <img class="profile-img" src="{{site.baseurl}}/assets/images/{{ site.pic }}" alt="profile picture" />
+        <img class="profile-img" src="{{site.baseurl}}/assets/images/{{ site.pic }}" alt="profile picture"/>
 
-       {% if site.name %}
-       <h1 class="name">{{site.name}}</h1>
-       {% endif %}
+        {% if site.name %}
+        <h1 class="name">{{site.name}}</h1>
+        {% endif %}
 
-       {% if site.tagline %}
-       <h3 class="tagline">{{site.tagline}}</h3>
-       {% endif %}
+        {% if site.tagline %}
+        <h3 class="tagline">{{site.tagline}}</h3>
+        {% endif %}
 
-   </div><!--//profile-container-->
+    </div><!--//profile-container-->
 
-   <div class="contact-container container-block">
-       <ul class="list-unstyled contact-list">
+    <div class="contact-container container-block">
+        <ul class="list-unstyled contact-list">
 
-          {% if site.email %}
-           <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
-           {% endif %}
+            {% if site.email %}
+            <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
+            {% endif %}
 
-           {% if site.phone %}
-           <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
-           {% endif %}
+            {% if site.phone %}
+            <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
+            {% endif %}
 
-           {% if site.website %}
-           <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">{{site.website}}</a></li>
-           {% endif %}
+            {% if site.website %}
+            <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">{{site.website}}</a>
+            </li>
+            {% endif %}
 
-           {% if site.linkedin %}
-           <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.linkedin}}" target="_blank">{{site.linkedin}}</a></li>
-           {% endif %}
+            {% if site.linkedin %}
+            <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.linkedin}}"
+                                                                  target="_blank">{{site.linkedin}}</a></li>
+            {% endif %}
 
-           {% if site.github %}
-           <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
-           {% endif %}
+            {% if site.github %}
+            <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a>
+            </li>
+            {% endif %}
 
-           {% if site.twitter %}
-           <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
-           {% endif %}
+            {% if site.twitter %}
+            <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}"
+                                                                target="_blank">{{site.twitter}}</a></li>
+            {% endif %}
 
-           {% if site.hackerrank %}
-           <li class="hackerrank"><i class="fa fa-globe"></i><a href="https://hackerrank.com/{{site.hackerrank}}" target="_blank">{{site.hackerrank}}</a></li>
-           {% endif %}
+            {% if site.hackerrank %}
+            <li class="hackerrank"><i class="fa fa-globe"></i><a href="https://hackerrank.com/{{site.hackerrank}}"
+                                                                 target="_blank">{{site.hackerrank}}</a></li>
+            {% endif %}
 
-           {% if site.resume_pdf %}
-           <li class="resume_pdf"><i class="fa fa-file-pdf-o"></i><a href="{{site.baseurl}}/assets/pdf/{{site.resume_pdf}}" target="_blank">Resume in PDF</a></li>
-           {% endif %}
+            {% if site.resume_pdf %}
+            <li class="resume_pdf"><i class="fa fa-file-pdf-o"></i><a
+                    href="{{site.baseurl}}/assets/pdf/{{site.resume_pdf}}" target="_blank">Resume in PDF</a></li>
+            {% endif %}
 
-       </ul>
-   </div><!--//contact-container-->
+        </ul>
+    </div><!--//contact-container-->
 
-  {% if site.education_in_main == null or site.education_in_main == false %}
+    {% if site.education_in_main == null or site.education_in_main == false %}
     {% include education.html %}
-  {% endif %}
-  {% include language.html %}
-  {% include interests.html %}
-  {% if site.about %}
+    {% endif %}
+
+    <div style="height: 120px; width: 280px; text-align:center">
+
+        <a href="https://www.youracclaim.com/badges/25788796-e402-4809-acad-8bd6fc54b7e7/public_url"
+           target='_blank'>
+            <img style="height: 120px; width: 120px; align-self: center"
+                 src="{{site.baseurl}}/assets/images/oracle-certified-associate-java-se-8-programmer.png" alt="">
+        </a>
+        <a href="https://www.youracclaim.com/badges/38fde9f3-ba54-44f4-ae0c-c3ff3cd365f8/public_url"
+           target='_blank'>
+            <img style="height: 120px; width: 120px; align-self: center"
+                 src="{{site.baseurl}}/assets/images/oracle-certified-professional-java-se-8-programmer.png" alt="">
+        </a>
+    </div>
+    {% include language.html %}
+    {% include interests.html %}
+    {% if site.about %}
     {% include about.html %}
-  {% endif %}
+    {% endif %}
 
 </div><!--//sidebar-wrapper-->
