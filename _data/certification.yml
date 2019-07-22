@@ -7,12 +7,12 @@
       <script type='text/javascript' async src='//cdn.youracclaim.com/assets/utilities/embed.js'></script>
       "
 - certificate:
-  name: DS220. DataStax Enterprise 6 Practical Application Data Modeling <br> with Apache Cassandra™ (<a href='/NikitaBaranov.github.io/assets/images/Resume_Nikita_Baranov.pdf' target='_blank'>view certificate</a>)
+  name: DS220. DataStax Enterprise 6 Practical Application Data Modeling <br> with Apache Cassandra™ (<a href='DataStax-DS220-DataStax-Enterprise-6-Practical-Application-Data-Modeling-with-Apache-Cassandra.png' target='_blank'>view certificate</a>)
   authority: DataStax
   time: 07.2019
 
 - certificate:
-  name: DS201. DataStax Enterprise 6 Foundations of Apache Cassandra™ <br> (<a href='/NikitaBaranov.github.io/assets/images/Resume_Nikita_Baranov.pdf' target='_blank'>view certificate</a>)
+  name: DS201. DataStax Enterprise 6 Foundations of Apache Cassandra™ <br> (<a href='/NikitaBaranov.github.io/assets/images/DataStax-DS201-DataStax-Enterprise-6-Foundations-of-Apache-Cassandra.png' target='_blank'>view certificate</a>)
   authority: DataStax
   time: 07.2019
 
