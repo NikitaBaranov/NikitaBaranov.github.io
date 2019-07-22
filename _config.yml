@@ -27,6 +27,17 @@ of any kind (technical, non-technical) and deliver the best possible user experi
 <p>Recently, I started to dive into Machine-Learning and Deep Networks to enrich developed solutions
 with Artificial Intelligent capabilities.</p>'
 
+skills: '
+<ul>
+  <li><b>Languages/Frameworks:</b> Java 8, Spring Framework, Spring Boot, Spring Data, Python, Angular 4, Go language</li>
+  <li><b>Technologies/Standards:</b>  REST, JSON, Git, Github, jUnit, Mockito</li>
+  <li><b>DB:</b> Cassandra (NoSQL), MongoDB (NoSQL), MySQL (SQL)</li>
+  <li><b>Deployment:</b> Docker, Kubernetes, Google Cloud</li>
+  <li><b>Big Data and Machine Learning(ML):</b> Keras, Tensorflow, Jupyter notebooks, Map-Reduce, Hadoop, Apache Spark</li>
+  <li><b>Fundamentals:</b> Algorithms and Data Structures</li>
+  <li><b>Soft skills:</b> agile, team player, critical thinking, problem-solving, attention to details, fast learner</li>
+</ul>'
+
 #sidebar links
 email: nikita@baranov.tech
 phone: +1-514-969-1051
@@ -42,6 +53,7 @@ github: NikitaBaranov
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 education_in_main: True
 certification_in_main: True
+skills_profile_in_main: True
 
 # uncomment the next line, if you want the section displayed in main
 # publications_in_main: True
