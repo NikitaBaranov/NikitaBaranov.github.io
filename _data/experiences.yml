@@ -3,7 +3,9 @@
   time: 10.2018 - Present
   company: <a href='https://www.workjam.com' target='_blank'>Workjam</a>, Montreal
   details: "<p>The team was responsible for the development of several back-end microservices that forms a core functionality of the application.</p>
-            <p>Accomplishments:</p>
+            <p><b>Technologies / Technics:</b></p>
+            <p>Java 8, Spring Boot, REST Microservices, Cassandra, jRebel, xRebel, Bitbucket, Jira, Confluence, Docker, Agile, Scrum, Sprints, Retrospectives.</p>
+            <p><b>Accomplishments:</b></p>
             <p>
               <ul>
                 <li>Implemented event sourcing functionality in two microservices. The main purpose is to create local Cassandra storage for most used objects that belong to the other MS. As a result significantly reduced the number of internal REST calls that lead to a reduction of response time and overall system load.</li>
@@ -15,11 +17,15 @@
   time: 06.2017 - 10.2018
   company: <a href='https://www.ericsson.com/en' target='_blank'>Ericsson</a>, Montreal
   details: "The team was responsible for the development of two services (back-end and front-end) in an internal management system.
-            <p>Accomplishments:</p>
+            <p><b>Technologies / Technics:</b></p>
+            <p>Java 8, Spring Boot, Spring Data, REST Microservices, Mongo DB, PostgreSQL, Angular Js, Docker, Kubernates, Agile, Scrum, Sprints, Retrospectives.</p>
+            <p><b>Accomplishments:</b></p>
             <p>
               <ul>
-                <li>Implemented event sourcing functionality in two microservices. The main purpose is to create local Cassandra storage for most used objects that belong to the other MS. As a result significantly reduced the number of internal REST calls that lead to a reduction of response time and overall system load.</li>
-                <li>Migrate three microservices to a leverage Spring Configuration Server autoconfigaration.</li>
+                <li>Refactored one of two main Java Spring Boot microservices that resulted in a significant increase of code base clarity and reduce code base by 3k lines.</li>
+                <li>Also, as a result of refactoring proposed and implemented a new version of REST API that simplified back-end and front-end logic of the application. </li>
+                <li>Investigated and developed the first integration with an external system. </li>
+                <li>Proposed changes to sprint planning that resulted in an ability to meet deadlines with production-ready features.</li>
               </ul>
             </p>"
 - experience:
@@ -31,7 +37,10 @@
   role: Agile Product Owner and Project Manager
   time: 09.2006 – 08.2016
   company: <a href='https://kontur.ru/eng/about' target='_blank'>SKB Kontur</a>, Ekaterinburg, Russia
-  details: "<ul>
+  details: "
+            <p><b>Technologies / Technics:</b></p>
+            <p>User interview, User demo, Roadmaps, Agile, Scrum, Sprints, Retrospectives.</p>
+            <ul>
               <li>
                   <a href='https://ca.kontur.ru/' target='_blank'>ca.skbkontur.ru</a> - Lead development and rolling out of the product line from scratch
                   <ul>
@@ -48,7 +57,10 @@
   role: Developer, Tester and Technical Support Specialist
   time: 06.2002 – 09.2006
   company: <a href='https://kontur.ru/eng/about' target='_blank'>SKB Kontur</a>, Ekaterinburg, Russia
-  details: "<ul>
+  details: "
+            <p><b>Technologies / Technics:</b></p>
+            <p>C++, ASP.Net, C#, SQL Server, Microsoft IIS.</p>
+            <ul>
               <li>
                 Developed a WEB system (ASP.Net, C++, C#, JavaScript, SQL)
               </li>
