@@ -25,6 +25,13 @@
                 >{{site.email}}</a></li>
             {% endif %}
 
+            {% if site.email2 %}
+            <li class="email"><i class="fa fa-envelope"></i>
+                <a href="mailto: {{site.email}}"
+                   onclick="javascript:gtag('event', 'click', {'event_category' : 'link','event_label' : 'email2'});;"
+                >{{site.email2}}</a></li>
+            {% endif %}
+
             {% if site.phone %}
             <li class="phone"><i class="fa fa-phone"></i>
                 <a href="tel:{{site.phone}}"
