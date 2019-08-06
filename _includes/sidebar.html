@@ -80,8 +80,17 @@
                 <a
                     href="{{site.baseurl}}/assets/pdf/{{site.resume_pdf}}"
                     target="_blank"
-                    onclick="javascript:gtag('event', 'click', {'event_category' : 'link','event_label' : 'resume'});;"
+                    onclick="javascript:gtag('event', 'click', {'event_category' : 'download','event_label' : 'resume_file'});;"
                 >Resume in PDF</a></li>
+            {% endif %}
+
+            {% if site.resume_link %}
+            <li class="resume_pdf"><i class="fa fa-external-link"></i>
+                <a
+                        href="{{site.resume_link}}"
+                        target="_blank"
+                        onclick="javascript:gtag('event', 'click', {'event_category' : 'link','event_label' : 'resume_link'});;"
+                >Resume at Google Doc</a></li>
             {% endif %}
 
         </ul>
